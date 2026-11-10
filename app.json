@@ -1,4 +1,9 @@
 {
   "name": "ReCicloApp",
-  "displayName": "ReCicloApp"
+  "displayName": "ReCicloApp",
+  "extra": {
+    "eas": {
+      "projectId": "9f7d04ed-2b8f-4b1e-b420-e4dbbce26dd7"
+    }
+  }
 }
